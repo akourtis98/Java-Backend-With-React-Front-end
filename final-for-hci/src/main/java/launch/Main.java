@@ -13,12 +13,6 @@ import org.apache.catalina.Context;
 import org.apache.catalina.WebResourceSet;
 import org.apache.catalina.webresources.EmptyResourceSet;
 
-// import java.io.FileReader;
-
-// import javax.script.ScriptEngine;
-// import javax.script.ScriptEngineManager;
-// import javax.script.ScriptException;
-
 public class Main {
 
     public static void main(String[] args) throws Exception {
@@ -55,19 +49,8 @@ public class Main {
         Connector defaultConnector = tomcat.getConnector();
         defaultConnector.setRedirectPort(8081);
 
-        // StandardContext ctx = (StandardContext) tomcat.addWebapp("", new File(webappDirLocation).getAbsolutePath());
-        // System.out.println("configuring app with basedir: " + new File("./" + webappDirLocation).getAbsolutePath());
-
-        // // Declare an alternative location for your "WEB-INF/classes" dir
-        // // Servlet 3.0 annotation will work
-        // File additionWebInfClasses = new File("target/classes");
-        // WebResourceRoot resources = new StandardRoot(ctx);
-        // resources.addPreResources(
-        //         new DirResourceSet(resources, "/WEB-INF/classes", additionWebInfClasses.getAbsolutePath(), "/"));
-        // ctx.setResources(resources);
-
         // Define a web application context.
-        Context context = tomcat.addWebapp("", new File(webappDirLocation).getAbsolutePath());
+        Context context = tomcat.addWebapp("myapp", new File(webappDirLocation).getAbsolutePath());
 
         // Declare an alternative location for your "WEB-INF/classes" dir
         // Servlet 3.0 annotation will work
@@ -89,11 +72,5 @@ public class Main {
 
         tomcat.start();
         tomcat.getServer().await();
-
-        // Server-rendering with Nashorn
-        // ScriptEngine nashorn = new ScriptEngineManager().getEngineByName("nashorn");
-        // nashorn.eval(new FileReader(webappDirLocation + "public/bundle.js"));
-        // String markup = nashorn.invokeFunction("renderOnServer");
-        // Then Pass markup as Java variable
     }
 }

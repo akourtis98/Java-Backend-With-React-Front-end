@@ -2,32 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8c4765f-2514-4633-a4b9-02a9264da708" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/java-plus-reactjs/src/main/java/servlet/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-plus-reactjs/src/main/webapp/client/app/components/home.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-plus-reactjs/src/main/webapp/test.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-plus-reactjs/src/main/java/servlet/Home.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-plus-reactjs/src/main/java/servlet/Home.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-plus-reactjs/src/main/webapp/client/app/actions/counter.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-plus-reactjs/src/main/webapp/client/app/actions/i18n.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-plus-reactjs/src/main/webapp/client/app/actions/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-plus-reactjs/src/main/webapp/client/app/actions/language.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-plus-reactjs/src/main/webapp/client/app/components/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/java-plus-reactjs/src/main/webapp/client/app/components/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-plus-reactjs/src/main/webapp/client/app/components/Provider.js" beforeDir="false" afterPath="$PROJECT_DIR$/java-plus-reactjs/src/main/webapp/client/app/components/Provider.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-plus-reactjs/src/main/webapp/client/app/components/Routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/java-plus-reactjs/src/main/webapp/client/app/components/Routes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-plus-reactjs/src/main/webapp/client/app/components/home/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/java-plus-reactjs/src/main/webapp/client/app/components/home/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-plus-reactjs/src/main/webapp/client/app/helpers/util.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-plus-reactjs/src/main/webapp/client/app/i18n/ar.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-plus-reactjs/src/main/webapp/client/app/i18n/en.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-plus-reactjs/src/main/webapp/client/app/reducers/counter.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-plus-reactjs/src/main/webapp/client/app/reducers/i18n.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-plus-reactjs/src/main/webapp/client/app/reducers/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-plus-reactjs/src/main/webapp/client/app/reducers/language.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-plus-reactjs/src/main/webapp/client/app/scss/global.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-plus-reactjs/src/main/webapp/client/app/scss/resources/colors.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-plus-reactjs/src/main/webapp/client/app/scss/resources/mixins.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-plus-reactjs/src/main/webapp/client/app/scss/resources/variables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-plus-reactjs/src/main/webapp/client/app/sw.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-plus-reactjs/src/main/webapp/index.bak.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-plus-reactjs/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/java-plus-reactjs/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/newapp_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Spring_4_3_18_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Spring_MVC_4_3_18_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-plus-reactjs/src/main/java/com/app/entities/Cart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-plus-reactjs/src/main/java/com/app/entities/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-plus-reactjs/src/main/java/controllers/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-plus-reactjs/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-plus-reactjs/src/main/resources/persistence-mysql.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/newapp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/newapp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-plus-reactjs/src/main/java/launch/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-plus-reactjs/src/main/java/launch/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-plus-reactjs/src/main/java/servlet/About.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-plus-reactjs/src/main/java/controllers/About.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-plus-reactjs/src/main/java/servlet/HelloServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-plus-reactjs/src/main/java/controllers/HelloServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-plus-reactjs/src/main/java/servlet/Home.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-plus-reactjs/src/main/java/servlet/Test.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,118 +30,81 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-plus-reactjs/src/main/webapp/client/app/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="729">
-              <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-plus-reactjs/src/main/webapp/client/app/components/Routes.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="5" column="29" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="29" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-plus-reactjs/src/main/webapp/client/app/components/misc/CustomLoadable.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-                <element signature="e#80#118#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-plus-reactjs/src/main/webapp/client/app/components/misc/Loader.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-plus-reactjs/src/main/webapp/client/app/components/home.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="72" selection-start-line="11" selection-start-column="11" selection-end-line="24" selection-end-column="72" />
-              <folding>
-                <element signature="e#0#41#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-plus-reactjs/src/main/webapp/client/app/components/home/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="567">
-              <caret line="36" column="66" selection-start-line="23" selection-start-column="6" selection-end-line="36" selection-end-column="66" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-plus-reactjs/src/main/webapp/index.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="11" column="7" selection-end-line="11" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-plus-reactjs/src/main/java/servlet/Home.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/java-plus-reactjs/src/main/java/servlet/Test.java">
+        <entry file="file://$PROJECT_DIR$/java-plus-reactjs/src/main/java/controllers/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+            <state relative-caret-position="434">
+              <caret line="34" column="4" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-plus-reactjs/src/main/webapp/test.jsp">
+        <entry file="file://$PROJECT_DIR$/java-plus-reactjs/src/main/java/controllers/About.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+            <state>
+              <caret column="19" selection-start-column="8" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-plus-reactjs/src/main/resources/hibernate.cfg.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="4" column="17" lean-forward="true" selection-start-line="4" selection-start-column="17" selection-end-line="5" selection-end-column="67" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-plus-reactjs/src/main/java/launch/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-978">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-plus-reactjs/src/main/java/com/app/entities/Cart.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+              <folding>
+                <element signature="e#528#529#0" expanded="true" />
+                <element signature="e#566#567#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+      </list>
+    </option>
+  </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>title</find>
+      <find>c3p</find>
+      <find>connector</find>
+      <find>c3</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/java-plus-reactjs" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -161,14 +118,25 @@
         <option value="$PROJECT_DIR$/java-plus-reactjs/src/main/webapp/client/app/components/home/index.js" />
         <option value="$PROJECT_DIR$/java-plus-reactjs/src/main/webapp/test.jsp" />
         <option value="$PROJECT_DIR$/java-plus-reactjs/src/main/java/servlet/Test.java" />
+        <option value="$PROJECT_DIR$/java-plus-reactjs/src/main/resources/hibernate.cfg.xml" />
+        <option value="$PROJECT_DIR$/java-plus-reactjs/src/main/resources/persistence-mysql.properties" />
+        <option value="$PROJECT_DIR$/java-plus-reactjs/src/main/java/com/app/entities/Skins.java" />
+        <option value="$PROJECT_DIR$/java-plus-reactjs/src/main/java/com/app/entities/User.java" />
+        <option value="$PROJECT_DIR$/java-plus-reactjs/src/main/java/controllers/About.java" />
+        <option value="$PROJECT_DIR$/java-plus-reactjs/src/main/java/controllers/HelloServlet.java" />
+        <option value="$PROJECT_DIR$/java-plus-reactjs/src/main/java/launch/Main.java" />
+        <option value="$PROJECT_DIR$/java-plus-reactjs/src/main/java/com/app/entities/Cart.java" />
+        <option value="$PROJECT_DIR$/java-plus-reactjs/src/main/java/com/app/entities/Skin.java" />
+        <option value="$PROJECT_DIR$/java-plus-reactjs/pom.xml" />
+        <option value="$PROJECT_DIR$/java-plus-reactjs/src/main/java/controllers/Test.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="67" />
-    <option name="y" value="25" />
-    <option name="width" value="1853" />
-    <option name="height" value="1055" />
+    <option name="x" value="-106" />
+    <option name="y" value="27" />
+    <option name="width" value="1843" />
+    <option name="height" value="789" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -186,11 +154,6 @@
             <path>
               <item name="newapp" type="b2602c69:ProjectViewProjectNode" />
               <item name="newapp" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="newapp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="newapp" type="462c0819:PsiDirectoryNode" />
               <item name="java-plus-reactjs" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -221,7 +184,43 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="servlet" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="newapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="newapp" type="462c0819:PsiDirectoryNode" />
+              <item name="java-plus-reactjs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="newapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="newapp" type="462c0819:PsiDirectoryNode" />
+              <item name="java-plus-reactjs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="newapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="newapp" type="462c0819:PsiDirectoryNode" />
+              <item name="java-plus-reactjs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="launch" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="newapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="newapp" type="462c0819:PsiDirectoryNode" />
+              <item name="java-plus-reactjs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="newapp" type="b2602c69:ProjectViewProjectNode" />
@@ -230,28 +229,19 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="newapp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="newapp" type="462c0819:PsiDirectoryNode" />
-              <item name="java-plus-reactjs" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544433171356" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544527004948" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -287,29 +277,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1544431251139</updated>
-      <workItem from="1544431253035" duration="1917000" />
+      <workItem from="1544431253035" duration="2183000" />
+      <workItem from="1544512103372" duration="6664000" />
+      <workItem from="1544521412884" duration="3555000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1917000" />
+    <option name="totallyTimeSpent" value="12402000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2498618" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23438364" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -317,15 +305,22 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.29001075" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Spring" order="12" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.2498618" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -359,72 +354,15 @@
         <state relative-caret-position="-308" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-plus-reactjs/src/main/java/launch/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="30" column="34" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-plus-reactjs/src/main/webapp/client/app/reducers/counter.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-plus-reactjs/src/main/webapp/client/app/reducers/i18n.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#51#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-plus-reactjs/src/main/webapp/client/app/reducers/language.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="18" lean-forward="true" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-plus-reactjs/src/main/java/servlet/HelloServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-plus-reactjs/src/main/java/servlet/About.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="14" column="11" selection-end-line="20" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-plus-reactjs/src/main/webapp/index.bak.jsp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/java-plus-reactjs/src/main/webapp/client/app/reducers/counter.js" />
+    <entry file="file://$PROJECT_DIR$/java-plus-reactjs/src/main/webapp/client/app/reducers/i18n.js" />
+    <entry file="file://$PROJECT_DIR$/java-plus-reactjs/src/main/webapp/client/app/reducers/language.js" />
+    <entry file="file://$PROJECT_DIR$/java-plus-reactjs/src/main/webapp/index.bak.jsp" />
     <entry file="file://$PROJECT_DIR$/java-plus-reactjs/src/main/webapp/client/webpack.prod.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-plus-reactjs/src/main/webapp/client/app/reducers/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="e#0#40#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-plus-reactjs/src/main/webapp/client/app/scss/global.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/java-plus-reactjs/src/main/webapp/client/app/reducers/index.js" />
+    <entry file="file://$PROJECT_DIR$/java-plus-reactjs/src/main/webapp/client/app/scss/global.scss" />
     <entry file="file://$PROJECT_DIR$/java-plus-reactjs/src/main/webapp/client/webpack.dev.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1080">
@@ -432,16 +370,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-plus-reactjs/src/main/webapp/client/app/actions/counter.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-plus-reactjs/src/main/webapp/client/app/actions/index.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/java-plus-reactjs/src/main/webapp/client/app/actions/counter.js" />
+    <entry file="file://$PROJECT_DIR$/java-plus-reactjs/src/main/webapp/client/app/actions/index.js" />
     <entry file="file://$PROJECT_DIR$/java-plus-reactjs/src/main/webapp/client/app/api/hello.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
@@ -484,13 +414,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-plus-reactjs/src/main/webapp/client/app/sw.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/java-plus-reactjs/src/main/webapp/client/app/sw.js" />
     <entry file="file://$PROJECT_DIR$/java-plus-reactjs/src/main/webapp/client/app/store/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
@@ -503,7 +427,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java-plus-reactjs/src/main/webapp/client/app/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="729">
+        <state relative-caret-position="648">
           <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
@@ -513,7 +437,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java-plus-reactjs/src/main/webapp/client/app/components/Routes.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
+        <state relative-caret-position="27">
           <caret line="5" column="29" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="29" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
@@ -521,12 +445,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-plus-reactjs/src/main/webapp/client/app/components/misc/Loader.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/java-plus-reactjs/src/main/webapp/client/app/components/misc/CustomLoadable.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
+        <state relative-caret-position="27">
           <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
@@ -535,12 +456,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/java-plus-reactjs/src/main/webapp/client/app/components/misc/Loader.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/java-plus-reactjs/src/main/webapp/client/app/components/home.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
+        <state relative-caret-position="594">
           <caret line="24" column="72" selection-start-line="11" selection-start-column="11" selection-end-line="24" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-plus-reactjs/src/main/webapp/client/app/components/home/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="36" column="66" selection-start-line="23" selection-start-column="6" selection-end-line="36" selection-end-column="66" />
           <folding>
-            <element signature="e#0#41#0" expanded="true" />
+            <element signature="e#0#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -552,16 +483,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-plus-reactjs/src/main/webapp/client/app/components/home/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="36" column="66" selection-start-line="23" selection-start-column="6" selection-end-line="36" selection-end-column="66" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java-plus-reactjs/src/main/webapp/test.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
@@ -569,17 +490,106 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-plus-reactjs/src/main/java/servlet/Home.java">
+    <entry file="file://$PROJECT_DIR$/java-plus-reactjs/src/main/java/controllers/Home.java" />
+    <entry file="file://$PROJECT_DIR$/java-plus-reactjs/src/main/java/com/app/entities/User.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+        <state relative-caret-position="451">
+          <caret line="70" column="28" selection-start-line="70" selection-start-column="28" selection-end-line="70" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1137#1138#0" expanded="true" />
+            <element signature="e#1177#1178#0" expanded="true" />
+            <element signature="e#1225#1226#0" expanded="true" />
+            <element signature="e#1265#1266#0" expanded="true" />
+            <element signature="e#1300#1301#0" expanded="true" />
+            <element signature="e#1331#1332#0" expanded="true" />
+            <element signature="e#1366#1367#0" expanded="true" />
+            <element signature="e#1397#1398#0" expanded="true" />
+            <element signature="e#1428#1429#0" expanded="true" />
+            <element signature="e#1458#1459#0" expanded="true" />
+            <element signature="e#1501#1502#0" expanded="true" />
+            <element signature="e#1539#1540#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-plus-reactjs/src/main/java/servlet/Test.java">
+    <entry file="file://$PROJECT_DIR$/java-plus-reactjs/src/main/java/controllers/About.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        <state>
+          <caret column="19" selection-start-column="8" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-plus-reactjs/src/main/java/controllers/HelloServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-plus-reactjs/src/main/java/com/app/entities/Cart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+          <folding>
+            <element signature="e#528#529#0" expanded="true" />
+            <element signature="e#566#567#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-plus-reactjs/src/main/java/com/app/entities/Skin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="50" column="30" selection-start-line="50" selection-start-column="30" selection-end-line="50" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2157#2158#0" expanded="true" />
+            <element signature="e#2193#2194#0" expanded="true" />
+            <element signature="e#2251#2252#0" expanded="true" />
+            <element signature="e#2301#2302#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-plus-reactjs/src/main/resources/persistence-mysql.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-plus-reactjs/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="779">
+          <caret line="66" column="42" lean-forward="true" selection-start-line="66" selection-start-column="42" selection-end-line="66" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-plus-reactjs/src/main/resources/hibernate.cfg.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="17" lean-forward="true" selection-start-line="4" selection-start-column="17" selection-end-line="5" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-plus-reactjs/src/main/java/launch/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-978">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-plus-reactjs/src/main/java/controllers/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="34" column="4" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
